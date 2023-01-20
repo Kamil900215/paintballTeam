@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.16.4",
+    "mongoose": "^6.4.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.19",
+    "routes": "^2.1.0"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.jsx"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
